@@ -21,8 +21,8 @@ split the line using .spli
 ```python
 '''
 Program for getting the word count from the contents of a file using command line arguments
-Developed by: Dharshan D
-RegisterNumber: 23001663
+Developed by: B KRISHNAKANTH
+RegisterNumber: 212223230109
 '''
 import sys
 fp=open(sys.argv[1],'r')
